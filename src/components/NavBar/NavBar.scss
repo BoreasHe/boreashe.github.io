@@ -1,0 +1,112 @@
+@import "_global";
+
+.navbar {
+	background-color: transparent;
+	background: linear-gradient(0deg, rgba(25,24,26,0) 0%, rgba(25,24,26,1) 100%) !important;
+	width: 100%;
+}
+
+.navbar-list {
+	display: flex;	
+	padding-inline-start: 0px;
+
+	@include xs {
+		justify-content: space-around;
+	}
+
+	@include sm {
+		justify-content: space-around;
+	}
+
+	@include md {
+		justify-content: center;
+	}
+
+	@include lg {
+		justify-content: center;
+	}
+
+	@include xl {
+		justify-content: center;
+	}
+}
+
+.nav-link:-webkit-any-link {
+	text-decoration: none !important;
+}
+
+.nav-item {
+	@include xs {
+		padding-left: 10px !important;
+		padding-right: 10px !important;
+		font-size: 1.5rem;
+	}
+
+	@include sm {
+		padding-left: 25px !important;
+		padding-right: 25px !important;
+		font-size: 1.8rem;
+	}
+
+	@include md {
+		padding-left: 20px !important;
+		padding-right: 20px !important;
+		font-size: 1rem;
+	}
+
+	@include lg {
+		padding-left: 30px !important;
+		padding-right: 30px !important;
+		font-size: 1rem;
+	}
+
+	@include xl {
+		padding-left: 40px !important;
+		padding-right: 40px !important;
+		font-size: 1rem;
+	}
+}
+
+.nav-text {
+	@include xs {
+		display: none;
+	}
+
+	@include sm {
+		display: none;
+	}
+
+	@include md {
+		display: block;
+	}
+
+	@include lg {
+		display: block;
+	}
+
+	@include xl {
+		display: block;
+	}
+}
+
+.nav-icon {
+	@include xs {
+		display: block;
+	}
+
+	@include sm {
+		display: block;
+	}
+
+	@include md {
+		display: none;
+	}
+
+	@include lg {
+		display: none;
+	}
+
+	@include xl {
+		display: none;
+	}
+}

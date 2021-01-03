@@ -1,0 +1,87 @@
+@import "_global";
+
+.project-card{
+    border-radius: 10px !important;
+    background-color: transparent !important;
+}
+
+.project-card-content{
+    height: 100px;
+    background-color: var(--monokai-semi-black);
+}
+
+.project-card-footer{
+    background-color: var(--monokai-semi-black);
+    flex-wrap: wrap
+}
+
+.project-card-title{
+    font-family: FiraSans !important;
+    font-weight: normal;
+    color: var(--monokai-white);
+}
+
+.project-card-desc{
+    font-family: FiraSansLight !important;
+    color: var(--monokai-semi-white) !important;
+    letter-spacing: 0.5px !important;
+}
+
+.project-card-thumbnail{
+    height: 200px;
+}
+
+.wipText{
+    font-size: 14px;
+    color: var(--monokai-green);
+}
+
+.project-card-chip{
+    font-family: "FiraSans" !important;
+    border-radius: 10px !important;
+}
+
+.red{
+    background-color: var(--monokai-red) !important;
+    color: var(--monokai-black) !important;
+}
+
+.orange{
+    background-color: var(--monokai-orange) !important;
+    color: var(--monokai-black) !important;
+}
+
+.yellow{
+    background-color: var(--monokai-yellow) !important;
+    color: var(--monokai-black) !important;
+}
+
+.green{
+    background-color: var(--monokai-green) !important;
+    color: var(--monokai-black) !important;
+}
+
+.blue{
+    background-color: var(--monokai-blue) !important;
+    color: var(--monokai-black) !important;
+}
+
+.purple{
+    background-color: var(--monokai-purple) !important;
+    color: var(--monokai-black) !important;
+}
+
+.black{
+    background-color: var(--monokai-black) !important;
+    color: var(--monokai-white) !important;
+}
+
+.gray{
+    background-color: var(--monokai-semi-white) !important;
+    color: var(--monokai-black) !important;
+}
+
+.default{
+    background-color: var(--monokai-semi-white) !important;
+    color: var(--monokai-black) !important;
+}

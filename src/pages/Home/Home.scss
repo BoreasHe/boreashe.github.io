@@ -1,0 +1,51 @@
+@import "_global";
+
+#home
+{
+    position: relative;
+	height: 100vh;
+    overflow: hidden;
+}
+
+#front-layer {
+	background-image: url("../../assets/img/background/front-layer.png");
+	background-size: cover;
+	margin-left: -5vw;
+	margin-bottom: -5vh;
+	height: 108vh;
+	width: 108vw;
+	background-repeat: no-repeat;
+}
+
+#back-layer {
+	height: 100vh;
+	background-image: url("../../assets/img/background/back-layer.jpg");
+	background-size: cover;
+	margin: -5vh -5vw -5vh -5vw;
+	height: 110vh;
+	width: 110vw;
+	background-repeat: no-repeat;
+}
+
+#dot-layer {
+	background-image: url("../../assets/img/background/dot-overlay.png");
+	min-width: 100%;
+    min-height: 100%;
+    width: auto;
+    height: auto;
+    position: fixed;
+    top: 0;
+    left: 0;
+	background-repeat: repeat;
+}
+
+#overlay-layer {
+	background-color: #00000099;
+	min-width: 100%;
+    min-height: 100%;
+    width: auto;
+    height: auto;
+    position: fixed;
+    top: 0;
+    left: 0;
+}

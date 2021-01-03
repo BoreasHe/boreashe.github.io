@@ -1,0 +1,72 @@
+@import "_global";
+
+.MuiPaper-rounded {
+    border-radius: 10px !important;
+    background-color: transparent !important;
+}
+
+.carousel{
+    height: 55vw;
+    max-height: 500px;
+}
+
+.dialog-background{
+    background-color: var(--monokai-black);
+}
+
+.dialog-title-text{
+    font-family: FiraSans !important;
+    color: var(--monokai-white);
+    font-weight: normal;
+}
+
+.dialog-title-button{
+    font-family: FiraSans !important;
+    color: var(--monokai-white);
+}
+
+.dialog-content-text{
+    height: 50px;
+    text-align: center;
+    font-family: FiraSansLight !important;
+    color: var(--monokai-white);
+}
+
+.dialog-auth-text{
+    font-family: FiraSansLight !important;
+    color: var(--monokai-white);
+    position: absolute;
+    left: 10px;
+}
+
+.dialog-footer{
+    justify-content: space-between !important;
+}
+
+.dialog-auth-chip{
+    margin-left: 2.5px;
+    margin-right: 2.5px;
+    border-radius: 10px !important;
+    background-color: var(--monokai-semi-black) !important;
+    font-family: FiraSans !important;
+    color: var(--monokai-semi-white) !important;
+}
+
+.dialog-link-button{
+    background-color: var(--monokai-semi-black) !important;
+    color: var(--monokai-semi-white) !important;
+    font-family: FiraSans !important;
+}
+
+.slide-image{
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+    height: 30vw;
+    max-height: 350px;
+}
+
+.disabled-button{
+    background-color: transparent !important;
+    color: transparent !important
+}

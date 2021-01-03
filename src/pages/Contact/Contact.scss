@@ -1,0 +1,17 @@
+@import "_global";
+
+.footer{
+    width: 100% !important;
+    font-family: FiraSans;
+    display: flex !important;
+    align-items: center;
+    align-content: center;
+    height: 40px;
+    background-color: #151515;
+    color: var(--monokai-white);
+}
+
+.footer-text{
+    width: 100%;
+    text-align: center;
+}

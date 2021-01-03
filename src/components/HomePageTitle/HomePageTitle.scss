@@ -1,0 +1,96 @@
+@import "_global";
+
+#top-info {
+	text-align: center;
+	width: 100vw;
+	top: 40% !important;
+}
+
+#name {
+	font-family: Kano;
+	letter-spacing: 0.1em;
+	color: var(--monokai-white);
+
+	@include xs {
+		font-size: 2.65rem;
+	}
+
+	@include sm {
+		font-size: 3rem;
+	}
+
+	@include md {
+		font-size: 4rem;
+	}
+
+	@include lg {
+		font-size: 5.5rem;
+	}
+
+	@include xl {
+		font-size: 6rem;
+	}
+}
+
+#top-desc {
+	font-family: Kano;
+	letter-spacing: 0.47em;
+	color: var(--monokai-white);
+
+	@include xs {
+		font-size: 1.1rem;
+		padding-left: 6px;
+	}
+
+	@include sm {
+		font-size: 1.25rem;
+		padding-left: 7px;
+	}
+
+	@include md {
+		font-size: 1.66rem;
+		padding-left: 10px;
+	}
+
+	@include lg {
+		font-size: 2.3rem;
+		padding-left: 15px;
+	}
+
+	@include xl {
+		font-size: 2.5rem;
+		padding-left: 17px;
+	}
+}
+
+.horizontal {
+
+	display: flex;
+  	align-items: center;
+  	justify-content: center;
+
+	@include xs {
+		margin-top: 5px;
+		margin-bottom: 15px;
+	}
+
+	@include sm {
+		margin-top: 2.5px;
+		margin-bottom: 15px;
+	}
+
+	@include md {
+		margin-top: 2.5px;
+		margin-bottom: 15px;
+	}
+
+	@include lg {
+		margin-top: 0px;
+		margin-bottom: 15px;
+	}
+
+	@include xl {
+		margin-top: -5px;
+		margin-bottom: 15px;
+	}
+}
