@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "565c97c383a49f7952c6f15348ecb972",
+    "revision": "897122cec2f590750abf05209ee5579b",
     "url": "/index.html"
   },
   {
-    "revision": "5e4c7d23739b2299b996",
-    "url": "/static/css/main.a90b2983.chunk.css"
+    "revision": "e351e607b28d009042d8",
+    "url": "/static/css/main.579bdd18.chunk.css"
   },
   {
-    "revision": "7f7075391f087f0d9ba4",
-    "url": "/static/js/2.3140e4a4.chunk.js"
+    "revision": "2219f21a5ce35fb7f932",
+    "url": "/static/js/2.35e03fbc.chunk.js"
   },
   {
     "revision": "77bd5056256cb01994b7af2667ce55df",
-    "url": "/static/js/2.3140e4a4.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.35e03fbc.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "5e4c7d23739b2299b996",
-    "url": "/static/js/main.dd5458f3.chunk.js"
+    "revision": "e351e607b28d009042d8",
+    "url": "/static/js/main.5875447d.chunk.js"
   },
   {
     "revision": "091dc72b492ee8c5bac9",
@@ -36,12 +36,20 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/FiraSans-Regular.895f5b02.ttf"
   },
   {
+    "revision": "0e3aca9bf7f00145b6b504301406468a",
+    "url": "/static/media/GhostlyDelivery.0e3aca9b.jpg"
+  },
+  {
     "revision": "6f73f323c1eb30db85ce30d092e45422",
     "url": "/static/media/Hanabi.6f73f323.jpg"
   },
   {
     "revision": "04af2a5aa0abf133036f8d70f0b9d58e",
     "url": "/static/media/Kano.04af2a5a.otf"
+  },
+  {
+    "revision": "7020bbe2ae0426abddf7f8f63aa370e3",
+    "url": "/static/media/Managarmr.7020bbe2.jpg"
   },
   {
     "revision": "0d7134aa76d556ae5f077e3dfe303887",
@@ -80,6 +88,18 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/front-layer.2f032876.png"
   },
   {
+    "revision": "8e15bfafe97308252e17a2e1fa781d35",
+    "url": "/static/media/ghostlyDelivery1.8e15bfaf.jpg"
+  },
+  {
+    "revision": "e87de7d1509b0c52bce9e6321af138d9",
+    "url": "/static/media/ghostlyDelivery2.e87de7d1.jpg"
+  },
+  {
+    "revision": "80a8214c99833f14beb0a03390efd1c7",
+    "url": "/static/media/ghostlyDelivery3.80a8214c.jpg"
+  },
+  {
     "revision": "6668fb80d11730965cb16ab69f82893e",
     "url": "/static/media/hanabi1.6668fb80.jpg"
   },
@@ -94,6 +114,18 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "6b845772c6e600c871b04c5c85fa154a",
     "url": "/static/media/hanabi4.6b845772.jpg"
+  },
+  {
+    "revision": "a0c5f34ac804a8310895c240e2374fdb",
+    "url": "/static/media/managarmr1.a0c5f34a.jpg"
+  },
+  {
+    "revision": "98353f8ca8e0d779ac4bea5645015f40",
+    "url": "/static/media/managarmr2.98353f8c.jpg"
+  },
+  {
+    "revision": "555178b15b13d9c5e7a414efd10e9082",
+    "url": "/static/media/managarmr3.555178b1.jpg"
   },
   {
     "revision": "3c1ee604cef636caf9e07b09d0f15fea",
