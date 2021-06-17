@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "cd0b7af744f1379f89e4ce6f69d6c751",
+    "revision": "d8c67de6d55783585ea3b582d6d8f18e",
     "url": "/index.html"
   },
   {
-    "revision": "3d1ecfcfd73db42a911b",
+    "revision": "fd293ba176a967e537c4",
     "url": "/static/css/main.ef14bcaa.chunk.css"
   },
   {
-    "revision": "7859fc4b512ad5635266",
-    "url": "/static/js/2.82c8308f.chunk.js"
+    "revision": "76f3c4e1bd2e0b9621ae",
+    "url": "/static/js/2.165d85a9.chunk.js"
   },
   {
     "revision": "197d05442f955c09d901aec3fa8ca18d",
-    "url": "/static/js/2.82c8308f.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.165d85a9.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "3d1ecfcfd73db42a911b",
-    "url": "/static/js/main.38fa4dca.chunk.js"
+    "revision": "fd293ba176a967e537c4",
+    "url": "/static/js/main.c8867b33.chunk.js"
   },
   {
     "revision": "091dc72b492ee8c5bac9",
@@ -34,6 +34,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "895f5b025a6cc4924b263f6beb06c777",
     "url": "/static/media/FiraSans-Regular.895f5b02.ttf"
+  },
+  {
+    "revision": "8410b1f42907300d251109b63500a2a8",
+    "url": "/static/media/ForestDefenders.8410b1f4.jpg"
   },
   {
     "revision": "0e3aca9bf7f00145b6b504301406468a",
