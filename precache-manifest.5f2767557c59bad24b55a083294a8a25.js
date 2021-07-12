@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "d8c67de6d55783585ea3b582d6d8f18e",
+    "revision": "95be644e6c733e52758b769cc78752ba",
     "url": "/index.html"
   },
   {
-    "revision": "fd293ba176a967e537c4",
-    "url": "/static/css/main.ef14bcaa.chunk.css"
+    "revision": "59fe0b13e47d602db10c",
+    "url": "/static/css/main.ae3bc225.chunk.css"
   },
   {
-    "revision": "76f3c4e1bd2e0b9621ae",
-    "url": "/static/js/2.165d85a9.chunk.js"
+    "revision": "bdbfbcfcb3fbc27d4838",
+    "url": "/static/js/2.ab425343.chunk.js"
   },
   {
     "revision": "197d05442f955c09d901aec3fa8ca18d",
-    "url": "/static/js/2.165d85a9.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.ab425343.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "fd293ba176a967e537c4",
-    "url": "/static/js/main.c8867b33.chunk.js"
+    "revision": "59fe0b13e47d602db10c",
+    "url": "/static/js/main.50cfe124.chunk.js"
   },
   {
     "revision": "091dc72b492ee8c5bac9",
@@ -26,6 +26,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "ff21c7e359ee376608ac3c32ee769126",
     "url": "/static/media/ArtofLife.ff21c7e3.jpg"
+  },
+  {
+    "revision": "ac47d0837d8e65c9668493e5a581240e",
+    "url": "/static/media/Entranc.ac47d083.jpg"
   },
   {
     "revision": "034229170eceddca9e300e8d2a4c8208",
@@ -50,6 +54,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "04af2a5aa0abf133036f8d70f0b9d58e",
     "url": "/static/media/Kano.04af2a5a.otf"
+  },
+  {
+    "revision": "765741f6afc7389ad4e64d2d9bce646c",
+    "url": "/static/media/MagnoliaLab.765741f6.jpg"
   },
   {
     "revision": "7020bbe2ae0426abddf7f8f63aa370e3",

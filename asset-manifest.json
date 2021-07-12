@@ -1,22 +1,24 @@
 {
   "files": {
-    "main.css": "/static/css/main.ef14bcaa.chunk.css",
-    "main.js": "/static/js/main.c8867b33.chunk.js",
-    "main.js.map": "/static/js/main.c8867b33.chunk.js.map",
+    "main.css": "/static/css/main.ae3bc225.chunk.css",
+    "main.js": "/static/js/main.50cfe124.chunk.js",
+    "main.js.map": "/static/js/main.50cfe124.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.c84adca6.js",
     "runtime-main.js.map": "/static/js/runtime-main.c84adca6.js.map",
-    "static/js/2.165d85a9.chunk.js": "/static/js/2.165d85a9.chunk.js",
-    "static/js/2.165d85a9.chunk.js.map": "/static/js/2.165d85a9.chunk.js.map",
+    "static/js/2.ab425343.chunk.js": "/static/js/2.ab425343.chunk.js",
+    "static/js/2.ab425343.chunk.js.map": "/static/js/2.ab425343.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.7d4f6017b1924a20fb1db81cd3ce8187.js": "/precache-manifest.7d4f6017b1924a20fb1db81cd3ce8187.js",
+    "precache-manifest.5f2767557c59bad24b55a083294a8a25.js": "/precache-manifest.5f2767557c59bad24b55a083294a8a25.js",
     "service-worker.js": "/service-worker.js",
-    "static/css/main.ef14bcaa.chunk.css.map": "/static/css/main.ef14bcaa.chunk.css.map",
-    "static/js/2.165d85a9.chunk.js.LICENSE.txt": "/static/js/2.165d85a9.chunk.js.LICENSE.txt",
+    "static/css/main.ae3bc225.chunk.css.map": "/static/css/main.ae3bc225.chunk.css.map",
+    "static/js/2.ab425343.chunk.js.LICENSE.txt": "/static/js/2.ab425343.chunk.js.LICENSE.txt",
     "static/media/ArtofLife.jpg": "/static/media/ArtofLife.ff21c7e3.jpg",
-    "static/media/ProjectDetailDialog.scss": "/static/media/cursor.5ae92a8a.png",
+    "static/media/Entranc.jpg": "/static/media/Entranc.ac47d083.jpg",
+    "static/media/ItchWidget.scss": "/static/media/cursor.5ae92a8a.png",
     "static/media/ForestDefenders.jpg": "/static/media/ForestDefenders.8410b1f4.jpg",
     "static/media/GhostlyDelivery.jpg": "/static/media/GhostlyDelivery.0e3aca9b.jpg",
     "static/media/Hanabi.jpg": "/static/media/Hanabi.6f73f323.jpg",
+    "static/media/MagnoliaLab.jpg": "/static/media/MagnoliaLab.765741f6.jpg",
     "static/media/Managarmr.jpg": "/static/media/Managarmr.7020bbe2.jpg",
     "static/media/Onikiri.jpg": "/static/media/Onikiri.0d7134aa.jpg",
     "static/media/PortfolioSite.jpg": "/static/media/PortfolioSite.781ff4fd.jpg",
@@ -49,8 +51,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.c84adca6.js",
-    "static/js/2.165d85a9.chunk.js",
-    "static/css/main.ef14bcaa.chunk.css",
-    "static/js/main.c8867b33.chunk.js"
+    "static/js/2.ab425343.chunk.js",
+    "static/css/main.ae3bc225.chunk.css",
+    "static/js/main.50cfe124.chunk.js"
   ]
 }
