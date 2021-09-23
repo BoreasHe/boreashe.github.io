@@ -1,4 +1,4 @@
-import React from 'react';
+import React, { useState } from 'react';
 
 //Component Dependencies
 import NavBar from './components/NavBar/NavBar';
@@ -8,13 +8,22 @@ import Profile from './pages/Profile/Profile';
 import Projects from './pages/Projects/Projects';
 
 const App = () => {
+	const [theme, setTheme] = useState();
+
 	return (
-		<>
-			<NavBar />
+		<div
+			style={{
+				backgroundColor: theme ? theme.primary ? theme.primary : "#2c2a2d" : "#2c2a2d",
+				transition: "all .5s ease",
+				WebkitTransition: "all .5s ease",
+				MozTransition: "all .5s ease"
+			}}
+		>
+			{/* <NavBar /> */}
 			<Home />
-			<Projects />
+			<Projects onThemeChanged={(t) => setTheme(t)} />
 			<Contact />
-		</>
+		</div>
 	);
 }
 

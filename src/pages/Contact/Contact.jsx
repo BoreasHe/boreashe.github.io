@@ -6,7 +6,7 @@ const Contact = () => {
     return (
         <div className="footer">
             <div className="footer-text">
-                Copyright © 2020 Boreas He
+                Copyright © 2020 - {new Date().getFullYear()} Boreas He
             </div>
         </div>
     )

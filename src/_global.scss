@@ -12,19 +12,19 @@ $xs-media: 575.99px;
 }
 
 @mixin lg() {
-	@media all and (min-width: $lg-media) {
+	@media all and (min-width: $lg-media)  and (max-width: $xl-media) {
 		@content;
 	}
 }
 
 @mixin md() {
-	@media all and (min-width: $md-media) {
+	@media all and (min-width: $md-media)  and (max-width: $lg-media) {
 		@content;
 	}
 }
 
 @mixin sm() {
-	@media all and (min-width: $sm-media) {
+	@media all and (min-width: $sm-media) and (max-width: $md-media) {
 		@content;
 	}
 }
