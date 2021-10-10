@@ -1,27 +1,31 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "95be644e6c733e52758b769cc78752ba",
+    "revision": "efc7427ab2a8c5d467800501a42eb86d",
     "url": "/index.html"
   },
   {
-    "revision": "59fe0b13e47d602db10c",
-    "url": "/static/css/main.ae3bc225.chunk.css"
+    "revision": "04a6ba7693193f42323c",
+    "url": "/static/css/main.cb71a9b5.chunk.css"
   },
   {
-    "revision": "bdbfbcfcb3fbc27d4838",
-    "url": "/static/js/2.ab425343.chunk.js"
+    "revision": "471c4333ddf45ed8d4c6",
+    "url": "/static/js/2.357a04b7.chunk.js"
   },
   {
-    "revision": "197d05442f955c09d901aec3fa8ca18d",
-    "url": "/static/js/2.ab425343.chunk.js.LICENSE.txt"
+    "revision": "e694997de6ab5de675d630485e2a1c63",
+    "url": "/static/js/2.357a04b7.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "59fe0b13e47d602db10c",
-    "url": "/static/js/main.50cfe124.chunk.js"
+    "revision": "04a6ba7693193f42323c",
+    "url": "/static/js/main.b58be248.chunk.js"
   },
   {
     "revision": "091dc72b492ee8c5bac9",
     "url": "/static/js/runtime-main.c84adca6.js"
+  },
+  {
+    "revision": "2c83caf213d1e9e3e4aa30118570deb6",
+    "url": "/static/media/1kmountains.2c83caf2.jpg"
   },
   {
     "revision": "ff21c7e359ee376608ac3c32ee769126",
@@ -64,8 +68,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/Managarmr.7020bbe2.jpg"
   },
   {
+    "revision": "674095aecbf52ba567449c05f0f66185",
+    "url": "/static/media/MorningStar.674095ae.jpg"
+  },
+  {
     "revision": "0d7134aa76d556ae5f077e3dfe303887",
     "url": "/static/media/Onikiri.0d7134aa.jpg"
+  },
+  {
+    "revision": "9957b4f4a94afb182739199b15d0b138",
+    "url": "/static/media/PixelArtWeaponChallenge.9957b4f4.jpg"
   },
   {
     "revision": "781ff4fd83d1b1961fffc62faad34f61",
@@ -80,12 +92,24 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/Valhalla.d6155095.jpg"
   },
   {
+    "revision": "1160f4b73e2fa83ace0e9d65d1642f9e",
+    "url": "/static/media/application.1160f4b7.svg"
+  },
+  {
+    "revision": "20d44ca306e5541ab714b563bd0ead5a",
+    "url": "/static/media/art.20d44ca3.svg"
+  },
+  {
     "revision": "3191404a7803db8aeb32dab5480b543f",
     "url": "/static/media/back-layer.3191404a.jpg"
   },
   {
     "revision": "5ae92a8aaa55ac16d328116a240835f9",
     "url": "/static/media/cursor.5ae92a8a.png"
+  },
+  {
+    "revision": "9447a64be85f3d92c258cb6c62794e13",
+    "url": "/static/media/design.9447a64b.svg"
   },
   {
     "revision": "f7a7deb7d0a71c26f74aaef84e5a70a6",
@@ -98,6 +122,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "2f032876af3d2b29a2a89064b57685f5",
     "url": "/static/media/front-layer.2f032876.png"
+  },
+  {
+    "revision": "3d5c927a6fdf325b1be7ec1fc6c3dfa8",
+    "url": "/static/media/game.3d5c927a.svg"
   },
   {
     "revision": "8e15bfafe97308252e17a2e1fa781d35",
@@ -126,6 +154,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "6b845772c6e600c871b04c5c85fa154a",
     "url": "/static/media/hanabi4.6b845772.jpg"
+  },
+  {
+    "revision": "12c432c16748583b27de0544a92c970a",
+    "url": "/static/media/machine-learning.12c432c1.svg"
   },
   {
     "revision": "a0c5f34ac804a8310895c240e2374fdb",
@@ -186,5 +218,9 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "ade63c2f934572267c5d97d2e734e13e",
     "url": "/static/media/valhalla5.ade63c2f.jpg"
+  },
+  {
+    "revision": "06bdc7ef51e43bf1b7f53f9e83f60a6c",
+    "url": "/static/media/web.06bdc7ef.svg"
   }
 ]);
