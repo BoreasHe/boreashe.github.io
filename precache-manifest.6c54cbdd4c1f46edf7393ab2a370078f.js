@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "efc7427ab2a8c5d467800501a42eb86d",
+    "revision": "36a3356c608453037bff21334d8152f9",
     "url": "/index.html"
   },
   {
-    "revision": "04a6ba7693193f42323c",
+    "revision": "3150c1d07a3a237c50a2",
     "url": "/static/css/main.cb71a9b5.chunk.css"
   },
   {
-    "revision": "471c4333ddf45ed8d4c6",
-    "url": "/static/js/2.357a04b7.chunk.js"
+    "revision": "3dabc64e8c0f608b15e5",
+    "url": "/static/js/2.3ee52d6f.chunk.js"
   },
   {
     "revision": "e694997de6ab5de675d630485e2a1c63",
-    "url": "/static/js/2.357a04b7.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.3ee52d6f.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "04a6ba7693193f42323c",
-    "url": "/static/js/main.b58be248.chunk.js"
+    "revision": "3150c1d07a3a237c50a2",
+    "url": "/static/js/main.23eed52f.chunk.js"
   },
   {
     "revision": "091dc72b492ee8c5bac9",
@@ -26,6 +26,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "2c83caf213d1e9e3e4aa30118570deb6",
     "url": "/static/media/1kmountains.2c83caf2.jpg"
+  },
+  {
+    "revision": "abe468b95c39ba4c4db227344909b7b6",
+    "url": "/static/media/AnvilSquad.abe468b9.jpg"
   },
   {
     "revision": "ff21c7e359ee376608ac3c32ee769126",
@@ -72,6 +76,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/MorningStar.674095ae.jpg"
   },
   {
+    "revision": "9165360a46e491905e3a7c96b78183fa",
+    "url": "/static/media/OneStepBeats.9165360a.jpg"
+  },
+  {
     "revision": "0d7134aa76d556ae5f077e3dfe303887",
     "url": "/static/media/Onikiri.0d7134aa.jpg"
   },
@@ -88,8 +96,32 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/Repair-Grandson.92790e0d.jpg"
   },
   {
+    "revision": "7f12a36f9e46657957ad22b36e00c746",
+    "url": "/static/media/Steamtown.7f12a36f.jpg"
+  },
+  {
     "revision": "d615509555a75b8fb3ad72735c95c6ef",
     "url": "/static/media/Valhalla.d6155095.jpg"
+  },
+  {
+    "revision": "b5c67bba983c28c1bbb3902b4ef7a0a7",
+    "url": "/static/media/anvil-squad1.b5c67bba.jpg"
+  },
+  {
+    "revision": "5d6cb5777a8e5bd10f228788a82cf0db",
+    "url": "/static/media/anvil-squad2.5d6cb577.jpg"
+  },
+  {
+    "revision": "17627efb09e55cabbbfed71aaa974f14",
+    "url": "/static/media/anvil-squad3.17627efb.jpg"
+  },
+  {
+    "revision": "8591c43be88c9a49756ef6699ec55645",
+    "url": "/static/media/anvil-squad4.8591c43b.jpg"
+  },
+  {
+    "revision": "51e6bee3611d2426c6cc44ca19fdb5d9",
+    "url": "/static/media/anvil-squad5.51e6bee3.jpg"
   },
   {
     "revision": "1160f4b73e2fa83ace0e9d65d1642f9e",
@@ -172,6 +204,18 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/managarmr3.555178b1.jpg"
   },
   {
+    "revision": "0e95fd55e4d46d557f0e91a9c4793b49",
+    "url": "/static/media/morning-star1.0e95fd55.jpg"
+  },
+  {
+    "revision": "6e44757f99eb2695b36edb415e7ba65a",
+    "url": "/static/media/morning-star2.6e44757f.jpg"
+  },
+  {
+    "revision": "956ffa7c1d8fc668432d29c94e4860a6",
+    "url": "/static/media/morning-star3.956ffa7c.jpg"
+  },
+  {
     "revision": "3c1ee604cef636caf9e07b09d0f15fea",
     "url": "/static/media/onikiri1.3c1ee604.jpg"
   },
@@ -198,6 +242,18 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "fc781b94eb93e11d3bd170969d3c88a6",
     "url": "/static/media/scroll.fc781b94.png"
+  },
+  {
+    "revision": "6587018a394f3b0da1523bf519b77e3b",
+    "url": "/static/media/steamtown1.6587018a.jpg"
+  },
+  {
+    "revision": "f276c4a844cc5da221ac73a392e81109",
+    "url": "/static/media/steamtown2.f276c4a8.jpg"
+  },
+  {
+    "revision": "2db2372f38b1a5c7527a845584863e3c",
+    "url": "/static/media/steamtown3.2db2372f.jpg"
   },
   {
     "revision": "e9dee06ae3a7d6b0acc5efb2cde573c1",
